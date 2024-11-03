@@ -1,132 +1,52 @@
-<div align="center">
-
-[![Header](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&repeat=false&width=500&height=70&lines=System+Initialize)](https://github.com/G4br1e3l)
-
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║     ██████╗ ██╗  ██╗██████╗ ██████╗  ██╗███████╗██████╗     ║
-║    ██╔════╝ ██║  ██║██╔══██╗██╔══██╗███║██╔════╝██╔══██╗    ║
-║    ██║  ███╗███████║██████╔╝██████╔╝╚██║█████╗  ██████╔╝    ║
-║    ██║   ██║╚════██║██╔══██╗██╔══██╗ ██║██╔══╝  ██╔══██╗    ║
-║    ╚██████╔╝     ██║██████╔╝██║  ██║ ██║███████╗██║  ██║    ║
-║     ╚═════╝      ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═╝╚══════╝╚═╝  ╚═╝    ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=8C8C8C&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=60&lines=Identity+Architecture+Engineer;Enterprise+Solutions+Developer)](https://github.com/G4br1e3l)
-
-</div>
-
-```powershell
-PS C:\Users\G4br1e3l> Get-Identity -Type Professional -Format Detail
-
-=================================================================================
-[System]: Initializing Identity Management Professional Profile
-[Status]: Active
-[Access]: Level 7 - Enterprise Architect
-=================================================================================
-```
-
-<div align="center">
-
-```bash
-g4br1e3l@enterprise-arch:~$ systemctl status identity-services
-● identity-services.service - Enterprise IAM Solutions
-     Loaded: loaded (/etc/systemd/system/identity-services.service; enabled)
-     Active: active (running)
-     Main PID: 1337 (iam-core)
-     Status: "Processing authentication requests"
-```
-
-</div>
-
-## `Core System Architecture`
-
-```ascii
-┌──────────────────────────────────────────────────────────────┐
-│                     SYSTEM ARCHITECTURE                       │
-│                                                              │
-│ ┌────────────┐    ┌────────────┐    ┌────────────┐          │
-│ │   IAM      │━━━▶│  Security  │━━━▶│   Apps     │          │
-│ │  Services  │◀━━━│   Layer    │◀━━━│ & Services │          │
-│ └────────────┘    └────────────┘    └────────────┘          │
-│                                                              │
-│        ▲                ▲                  ▲                 │
-│        │                │                  │                 │
-│        ▼                ▼                  ▼                 │
-│ ┌────────────┐    ┌────────────┐    ┌────────────┐         │
-│ │  Identity  │━━━▶│   Access   │━━━▶│  Resource  │         │
-│ │  Provider  │◀━━━│  Control   │◀━━━│  Manager   │         │
-│ └────────────┘    └────────────┘    └────────────┘         │
-└──────────────────────────────────────────────────────────────┘
-```
-
-## `Technical Matrix`
-
-<div align="center">
-
-| Identity Management | Security Development | Infrastructure |
-|:------------------:|:-------------------:|:--------------:|
-| [![IAM](https://img.shields.io/badge/IAM-Architecture-FF0000?style=flat-square&logo=auth0&logoColor=white)](https://github.com/G4br1e3l) | [![Dev](https://img.shields.io/badge/Security-Development-8C8C8C?style=flat-square&logo=typescript&logoColor=white)](https://github.com/G4br1e3l) | [![Cloud](https://img.shields.io/badge/Cloud-Security-FF0000?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/G4br1e3l) |
-
-</div>
-
-## `System Status`
-
-```bash
-g4br1e3l@enterprise-arch:~$ cat /etc/security/capabilities.conf
-#=====================================================
-# SECURITY CAPABILITIES CONFIGURATION
-#=====================================================
-
-capability.identity {
-    federation = ["SAML", "OAuth", "OIDC"]
-    protocols  = ["JWT", "SCIM", "RADIUS"]
-    audit      = ["Real-time", "Compliance", "Forensics"]
-}
-```
-
-## `Performance Metrics`
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=G4br1e3l&show_icons=true&hide_title=true&hide_border=true&theme=dark&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=8C8C8C"/>
-</div>
-
-## `Active Connections`
-
-```powershell
-PS C:\Users\G4br1e3l> Test-Connection -TargetDomains
-
-Domain                 Status    Latency  Protocol
----------------------  --------  -------  --------
-Identity.Core         Connected  1ms      OAuth2.0
-Access.Manager        Connected  2ms      SAML2.0
-Security.Gateway      Connected  1ms      JWT
-```
-
-## `Professional Network Protocols`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8C8C8C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/G4br1e3l)
-[![Email](https://img.shields.io/badge/Email-Contact-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@example.com)
-
-</div>
-
-```bash
-# System Logout Sequence
-g4br1e3l@enterprise-arch:~$ exit
-logout
-
-Connection to enterprise-arch closed.
-System security protocols: Active
-Terminal session: Encrypted
-```
-
-<div align="center">
-
-[![Footer](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=12&duration=3000&pause=1000&color=8C8C8C&center=true&vCenter=true&repeat=false&width=435&lines=Secure+Connection+Terminated)](https://github.com/G4br1e3l)
-
-</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+  <!-- Background Grid -->
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1a1a1a" stroke-width="0.5"/>
+    </pattern>
+    
+    <!-- Glowing effect -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background with grid -->
+  <rect width="800" height="200" fill="#000" />
+  <rect width="800" height="200" fill="url(#grid)" opacity="0.3"/>
+  
+  <!-- Main Title -->
+  <text x="400" y="80" fill="#FF0000" font-family="monospace" font-size="40" text-anchor="middle" filter="url(#glow)">
+    IDENTITY ARCHITECT
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/>
+  </text>
+  
+  <!-- Decorative Circuit Lines -->
+  <g stroke="#FF0000" stroke-width="2" fill="none">
+    <path d="M 100,100 L 300,100" opacity="0.6">
+      <animate attributeName="stroke-dasharray" values="0,1000;1000,0" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 500,100 L 700,100" opacity="0.6">
+      <animate attributeName="stroke-dasharray" values="1000,0;0,1000" dur="3s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  
+  <!-- Security Icons -->
+  <g fill="#FF0000" opacity="0.8">
+    <circle cx="50" cy="100" r="5">
+      <animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="750" cy="100" r="5">
+      <animate attributeName="r" values="6;3;6" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <!-- Subtitle -->
+  <text x="400" y="120" fill="#8C8C8C" font-family="monospace" font-size="16" text-anchor="middle">
+    ENTERPRISE SECURITY SOLUTIONS
+  </text>
+</svg>
