@@ -2,19 +2,6 @@
 
 [![Header](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&repeat=false&width=500&height=70&lines=System+Initialize)](https://github.com/G4br1e3l)
 
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║     ██████╗ ██╗  ██╗██████╗ ██████╗  ██╗███████╗██████╗     ║
-║    ██╔════╝ ██║  ██║██╔══██╗██╔══██╗███║██╔════╝██╔══██╗    ║
-║    ██║  ███╗███████║██████╔╝██████╔╝╚██║█████╗  ██████╔╝    ║
-║    ██║   ██║╚════██║██╔══██╗██╔══██╗ ██║██╔══╝  ██╔══██╗    ║
-║    ╚██████╔╝     ██║██████╔╝██║  ██║ ██║███████╗██║  ██║    ║
-║     ╚═════╝      ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═╝╚══════╝╚═╝  ╚═╝    ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=8C8C8C&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=60&lines=Identity+Architecture+Engineer;Enterprise+Solutions+Developer)](https://github.com/G4br1e3l)
 
 </div>
