@@ -6,52 +6,6 @@
 
 </div>
 
-```powershell
-PS C:\Users\G4br1e3l> Get-Identity -Type Professional -Format Detail
-
-=================================================================================
-[System]: Initializing Identity Management Professional Profile
-[Status]: Active
-[Access]: Level 7 - Enterprise Architect
-=================================================================================
-```
-
-<div align="center">
-
-```bash
-g4br1e3l@enterprise-arch:~$ systemctl status identity-services
-● identity-services.service - Enterprise IAM Solutions
-     Loaded: loaded (/etc/systemd/system/identity-services.service; enabled)
-     Active: active (running)
-     Main PID: 1337 (iam-core)
-     Status: "Processing authentication requests"
-```
-
-</div>
-
-## `Core System Architecture`
-
-```ascii
-┌──────────────────────────────────────────────────────────────┐
-│                     SYSTEM ARCHITECTURE                       │
-│                                                              │
-│ ┌────────────┐    ┌────────────┐    ┌────────────┐          │
-│ │   IAM      │━━━▶│  Security  │━━━▶│   Apps     │          │
-│ │  Services  │◀━━━│   Layer    │◀━━━│ & Services │          │
-│ └────────────┘    └────────────┘    └────────────┘          │
-│                                                              │
-│        ▲                ▲                  ▲                 │
-│        │                │                  │                 │
-│        ▼                ▼                  ▼                 │
-│ ┌────────────┐    ┌────────────┐    ┌────────────┐         │
-│ │  Identity  │━━━▶│   Access   │━━━▶│  Resource  │         │
-│ │  Provider  │◀━━━│  Control   │◀━━━│  Manager   │         │
-│ └────────────┘    └────────────┘    └────────────┘         │
-└──────────────────────────────────────────────────────────────┘
-```
-
-## `Technical Matrix`
-
 <div align="center">
 
 | Identity Management | Security Development | Infrastructure |
