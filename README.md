@@ -47,8 +47,6 @@ Access.Manager        Connected  2ms      SAML2.0
 Security.Gateway      Connected  1ms      JWT
 ```
 
-## `Professional Network Protocols`
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8C8C8C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/G4br1e3l)
