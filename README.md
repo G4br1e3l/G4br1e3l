@@ -54,20 +54,6 @@ Security.Gateway      Connected  1ms      JWT
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8C8C8C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/G4br1e3l)
 [![Email](https://img.shields.io/badge/Email-Contact-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@example.com)
 
-</div>
-
-```bash
-# System Logout Sequence
-g4br1e3l@enterprise-arch:~$ exit
-logout
-
-Connection to enterprise-arch closed.
-System security protocols: Active
-Terminal session: Encrypted
-```
-
-<div align="center">
-
 [![Footer](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=12&duration=3000&pause=1000&color=8C8C8C&center=true&vCenter=true&repeat=false&width=435&lines=Secure+Connection+Terminated)](https://github.com/G4br1e3l)
 
 </div>
